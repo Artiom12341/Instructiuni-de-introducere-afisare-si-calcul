@@ -1,0 +1,6 @@
+a=int (input("primul numar="))
+b=int (input("al doilea numar="))
+c=int (input("al treilea nuar="))
+print ("suma lui a+b=",a+b)
+print ("suma lui a+c=",a+c)
+print ("suma lui c+b=",c+b)
