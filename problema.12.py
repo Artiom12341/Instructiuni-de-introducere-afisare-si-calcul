@@ -1,0 +1,5 @@
+a=int(input("prima gaina="))
+b=int(input("a doua gaina="))
+c=int(input("a treia gaina="))
+d=int(input("a patra gaina="))
+print("Oua intr-o saptamana=",(a+b+c+d)*7)
